@@ -1,0 +1,28 @@
+{
+  "name": "gcommit",
+  "version": "0.0.5",
+  "description": "把git的commit信息自动添加进changelog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.corp.qunar.com:kylin.zhao/gcommit.git"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "comments",
+    "changelog"
+  ],
+  "dependencies": {
+    "line-reader": "*"
+  },
+  "author": "kylin.zhao",
+  "license": "ISC",
+  "bin": {
+    "gtc": "index.js",
+    "ky":"index.js"
+  }
+}
