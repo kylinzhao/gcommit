@@ -1,6 +1,6 @@
 {
   "name": "gcommit",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "把git的commit信息自动添加进changelog",
   "main": "index.js",
   "scripts": {
