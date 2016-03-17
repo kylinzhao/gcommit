@@ -1,9 +1,7 @@
-##### 1.0.0.3
 
-* gtc -c/-commit 提交修改
-* gtc -b/-branch 新建分支，将会自增一个新版本在changelog里
-* gtc 任意命令会直接执行该命令
-* add yargs
+##### 1.0.0.5
+
+* add files
 
 ##### 1.0.0.4
 
@@ -13,6 +11,13 @@
 * 提供了 -x 参数，加上这两个参数comments信息将不会写入changelog
 * 啊哈哈哈哈，ugc好厉害
 
-##### 1.0.0.5
+##### 1.0.0.3
 
-* add files
+* gtc -c/-commit 提交修改
+* gtc -b/-branch 新建分支，将会自增一个新版本在changelog里
+* gtc 任意命令会直接执行该命令
+* add yargs
+
+
+
+
